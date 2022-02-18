@@ -1,2 +1,0 @@
-- 👋 Hi, I’m @Cosmodio
-- 🌱 I’m currently learning ... Python
